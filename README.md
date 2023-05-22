@@ -13,9 +13,9 @@ make snort3-sh
 
 Test user case
 ==============
-1> create a '.env' in your local filesystem and indicate pcap_dir and pcap_filename by export
-        export pcap_dir=/root/xxxx
-        export pcap_filename=yyyy (without the '.pcap' suffix)
+1> create a '.env' in your local filesystem and indicate pcap_dir and pcap_filename by export like: 
+- export pcap_dir=/root/xxxx 
+- export pcap_filename=yyyy (without the '.pcap' suffix)
 
 2> make snort3-pcap
 
