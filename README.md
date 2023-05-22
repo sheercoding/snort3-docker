@@ -1,4 +1,4 @@
-Create Snort3 dockedr image.
+Create Snort3 docker image.
 
 
 This is a simple Dockfile for using Snort3. 
@@ -22,6 +22,6 @@ Test user case
 
 Resources
 ==========
-Snort3 Guide:   https://docs.snort.org/start/installation
-snort rules:    http://www.snort.org/downloads
-pcap data:      https://download.netresec.com/pcap/maccdc-2012/maccdc2012_00001.pcap.gz
+- Snort3 Guide:   https://docs.snort.org/start/installation
+- snort rules:    http://www.snort.org/downloads
+- pcap data:      https://download.netresec.com/pcap/maccdc-2012/maccdc2012_00001.pcap.gz
